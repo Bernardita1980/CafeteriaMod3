@@ -1,0 +1,18 @@
+.Numeros{
+    background-color: #FFF;
+    display: flex;
+    height: 20VH;
+    width: 60%;
+    position: relative;
+    top:304px;
+    left: 405px;
+    align-items: center;
+    
+    
+  }
+  .Numeros__Box{
+    display: inline-block;
+    text-align: center;
+    width: 30vw;
+    padding: 2px;
+  }

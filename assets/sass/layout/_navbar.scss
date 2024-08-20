@@ -1,0 +1,46 @@
+@import'../abstracts/variables';
+
+.Nav{
+    width: 100%;
+    display: inline-flex;
+  
+    a{
+      color: rgb(66, 61, 61);
+      text-decoration: none;  
+      font-family:$font2;
+      font-weight:$fontweight;
+      font-style: normal;
+    }
+  }
+  .Nav__img{
+    width: 3vw;
+    height: 6vh;
+  }
+  
+  .Nav__buttons{
+    display: flex-end;
+    padding-left: 600px;
+    
+  }
+  
+  .Nav__butons--b1{
+    font-family:$font2;
+    font-weight:$fontweight;
+    font-style: normal;
+    margin-right: 50px;
+    padding: 4px 20px;
+    color: $color-grey;
+    background-color:$color-white;
+    border:1px solid $color-grey;
+  }
+  .Nav__butons--b2{
+    font-family:$font2;
+    font-weight:$fontweight;
+    font-style: normal;
+    margin-right: 50px;
+    padding: 4px 20px;
+    background-color: $color-green;
+    color:$color-white;
+    border:$color-green;
+  
+  }

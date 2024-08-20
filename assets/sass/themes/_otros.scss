@@ -1,0 +1,57 @@
+.BoxRight__CajaRoja{
+    display: flex;
+    background-color:#E4572E;
+    width: 18vw;
+    height: 20vh;
+    position: relative;
+    right: 200px;
+    bottom: 20px;
+
+    
+
+  }
+
+  .BoxRight__cajaAmarilla{
+    display: flex;
+    background-color: #eacb31;
+    width: 18vw;
+    height: 20vh;
+    position: relative;
+    right: 23px;
+  }
+
+  .Icono{
+    font-size: 80px;
+    text-align: center;
+    display: flex;
+
+  }
+
+  
+  .BoxRight{
+    width:100%;
+    display: flex;
+    justify-content:center;
+    height: 50VH;
+  }
+
+
+  .BoxTexRight__Texto{
+    display: flex;
+    align-items: center;
+    width:100vw;
+    height: 30vh;
+ }
+
+
+
+
+
+
+  .TwoBox{
+    display: flex;
+    height:auto;
+    width: 100%;
+    height: 20vh;
+    padding-left: 0px;
+  }

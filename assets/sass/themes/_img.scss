@@ -1,0 +1,39 @@
+.BoxCentral{
+    height: 70vh;
+    background-image: url(/assets/img/img-1.png);
+    width: 100%;
+    display: flex;
+    padding-right: 0px;
+    
+
+}
+
+.GranosCoffee{
+    flex-direction: column;
+    position: relative;
+    height: 40vh;
+    z-index: 1;
+    left:650px;
+  }
+  
+.CajaCeleste{
+  height: 45vh;
+  background-color: #3c91e6;
+  top: 10px;
+  display:flex;
+  
+}
+.CajaCeleste__img{
+  position: relative;
+  height: 45vh;
+  right: 140px;
+  top: 15px;
+}
+  
+  .Caja3{
+    background-image: url(/assets/img/img-2.png);
+    height: 50vh;
+    background-repeat: no-repeat;
+    padding-left: 0;
+    
+  }
